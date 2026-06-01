@@ -27,7 +27,7 @@ lib/
 2. Abrir terminal en la carpeta del proyecto:
 
 ```bash
-cd "c:\Users\lucas\Documents\Universidad\Aplicaciones moviles\Asignacion 2"
+cd "ubicacion del programa"
 ```
 
 3. Si faltan carpetas `android/` e `ios/`, generar el proyecto de plataforma:
